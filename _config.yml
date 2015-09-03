@@ -1,3 +1,3 @@
 timezone: Asia/Shanghai
 markdown: rdiscount
-highlighter: pygments
+pygments: true
