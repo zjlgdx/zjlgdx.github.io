@@ -68,6 +68,10 @@ header h2 {
   color: #666;
 }
 
+header h1 a {
+  text-decoration: none;
+}
+
 #downloads .btn {
   display: inline-block;
   text-align: center;
@@ -244,4 +248,17 @@ a {
 
 .cf {
   zoom:1;
+}
+
+.blog-title {
+  margin-bottom: 40px;
+}
+
+.blog-title h2 {
+  margin-bottom: 0;
+}
+
+.blog-title h4 {
+  margin-top:0;
+  margin-bottom:0;
 }
