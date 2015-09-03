@@ -264,9 +264,10 @@ a {
 }
 
 .highlight pre, .markdown-body pre {
+    font-family: 'Consolas', 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', monospace;
+    font-size: 13px;
     padding: 16px;
     overflow: auto;
-    font-size: 85%;
     line-height: 1.45;
     background-color: #f7f7f7;
     border-radius: 3px;
