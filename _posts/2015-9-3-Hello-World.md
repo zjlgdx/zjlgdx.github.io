@@ -7,6 +7,11 @@ title: My first blog @ github
 
  This is my first post.
  
+<<<<<<< HEAD
+=======
+
+{% highlight c++ %}
+>>>>>>> ca0551c9d1b6c8ea94747d31ed56e2599eefb260
 ```c++
 #include <iostream>
 int main()
@@ -15,3 +20,5 @@ int main()
     return 0;
 }
 ```
+{% endhighlight %}
+
