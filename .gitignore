@@ -1,0 +1,5 @@
+# Ignore docs files
+_site
+
+# OS or Editor folders
+.DS_Store
