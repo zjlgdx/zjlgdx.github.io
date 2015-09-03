@@ -1,18 +1,1 @@
 timezone: Asia/Shanghai
-
-exclude:[Gemfile, Gemfile.lock, README.md]
-
-# Default YAML frontmatter settings
-defaults:
-  -
-    scope:
-      path:""
-      type: "posts"
-    values:
-      layout: "default"
-      author: "Yvan Yang"
-
-# Assets
-sass:
-    sass_dir: _sass
-    style: compressed
