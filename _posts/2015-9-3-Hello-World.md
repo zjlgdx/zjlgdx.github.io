@@ -8,7 +8,7 @@ title: My first blog @ github
  This is my first post.
 
 {% highlight c++ %}
-```cpp
+```c++
 #include <iostream>
 int main()
 {
