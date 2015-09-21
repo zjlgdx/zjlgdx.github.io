@@ -16,3 +16,5 @@ Todd Motto and John Papa have written excellent style guides that we recommend y
 
 Todd Motto’s Style Guide—https://github.com/toddmotto/angularjs-styleguide
 John Papa’s Style Guide—https://github.com/johnpapa/angularjs-styleguide
+
+from : Angular in action
